@@ -1,0 +1,5 @@
+# estoy ignorando los archivos del directorio salida
+salida/*.txt
+
+# ingnorar node_modules
+node_modules/
